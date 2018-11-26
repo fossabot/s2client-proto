@@ -1,4 +1,6 @@
 # Overview
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLiquidInCa%2Fs2client-proto.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FLiquidInCa%2Fs2client-proto?ref=badge_shield)
+
 
 The StarCraft II API is an interface that provides full external control of StarCraft II.
 
@@ -118,3 +120,7 @@ Standard folder layout:
 ## Replay Packs
 * Replace the "Battle.net" and "Replays" folders with the ones in the zip file.
 * In the API, a replay must be specified as an absolute path.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLiquidInCa%2Fs2client-proto.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FLiquidInCa%2Fs2client-proto?ref=badge_large)
